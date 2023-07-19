@@ -277,3 +277,57 @@
     font-weight: 400;
 }
 /* play game online section end */
+.careers-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(90deg, #FF42A5 0%, #FF42A5 100%);
+}
+.careers-content{
+   margin-left: 50px;
+}
+.careers-title{
+    color: #FFF;
+    font-size: 3rem;
+    font-weight: 700;
+    padding-left: 30px;
+}
+.careers-description{
+    color: #FFF;
+    font-size: 1rem;
+    font-weight: 400;
+    padding-left: 30px;
+}
+.careers-list{
+    display: flex;
+    gap: 30px;
+    padding: 50px;
+}
+.list-1{
+    color: #FFF;
+    font-size: 1.2rem;
+    font-weight: 600
+}
+.list-2{
+    color: #FFF;
+    font-size: 1.1rem;
+    font-weight: 600
+}
+.careers-btn{
+    width: 220px;
+    height: 40px;
+    border-radius: 40px;
+    border: none;
+    background-color:  #FFF;
+    color: #FF42A5;
+    font-size: 1rem;
+    cursor: pointer;
+    text-align: center;
+    margin-bottom: 70px;
+    margin-left: 70px;
+}
+.careers-img{
+    width: 700px;
+    height: 500px;
+}
+/* careers section end */
