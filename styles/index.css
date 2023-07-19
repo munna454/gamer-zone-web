@@ -331,3 +331,38 @@
     height: 500px;
 }
 /* careers section end */
+/* button list */
+.btn-primary{
+    display: flex;    
+    gap: 30px;
+    margin-left: 30px;   
+     margin-top: 30px; 
+     
+    
+    
+}
+.btn-info{
+    width: 200px;
+    border-radius: 50px;
+    background:  #FFF;;
+    border: none;
+    cursor: pointer;
+   
+  
+}
+.btn-info:hover{
+    border: 1px solid #FF42A5 ;
+}
+.btn-column{
+    display: flex;      
+    gap: 50px;
+    margin-left: 90px;     
+    margin-top: 50px;
+    margin-bottom: 40px;
+}
+.img-button{
+    width: 40px;
+    height: 40px;
+}
+/* hover style end */
+/* main section style end */
